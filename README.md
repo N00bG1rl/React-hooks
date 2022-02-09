@@ -1,3 +1,27 @@
+# React Hooks
+
+React hooks practice project.
+
+# Created at
+
+February 9, 2022
+
+# Project is created with
+
+- React
+- Redux
+- React Context API
+- React custom hook
+- CSS
+
+# View on browser
+
+## [https://n00bg1rl.github.io/react-mini-anim/](https://n00bg1rl.github.io/react-mini-anim/)
+
+# View as image
+
+![github](public/github.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -16,7 +16,7 @@ February 9, 2022
 
 # View on browser
 
-## [https://n00bg1rl.github.io/react-mini-anim/](https://n00bg1rl.github.io/react-mini-anim/)
+## [https://n00bg1rl.github.io/React-hooks/](https://n00bg1rl.github.io/React-hooks/)
 
 # View as image
 

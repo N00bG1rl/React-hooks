@@ -11,7 +11,7 @@ function App() {
       <Navigation />
       <main>
         <Routes>
-          <Route path='/' element={<ProductsPage />} exact />
+          <Route end path='/' element={<ProductsPage />} />
           <Route path='/favorites' element={<FavoritesPage />} />
         </Routes>
       </main>
